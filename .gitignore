@@ -105,3 +105,9 @@ dist
 
 # yarn
 yarn.lock
+
+# idea
+.idea
+
+# sw.js
+static/sw.js

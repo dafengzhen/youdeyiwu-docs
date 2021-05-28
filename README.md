@@ -1,5 +1,7 @@
 # youdeyiwu-docs
 
+关于具体说明请查看如下地址
+
 [尤得一物 - 文档](https://youdeyiwu-docs.vercel.app)
 
 # 常见提交类型
