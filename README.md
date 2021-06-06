@@ -1,8 +1,10 @@
 # youdeyiwu-docs
 
+该文档使用的是 vercel 网站服务托管
+
 关于具体说明请查看如下地址
 
-[尤得一物 - 文档](https://youdeyiwu-docs.vercel.app)
+[尤得一物 - 文档 (https://youdeyiwu-docs.vercel.app)](https://youdeyiwu-docs.vercel.app)
 
 # 常见提交类型
 
