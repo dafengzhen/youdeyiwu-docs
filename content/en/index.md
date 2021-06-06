@@ -4,6 +4,7 @@ description: 描述
 position: 1
 category: 开始
 features:
+  - 创建用户
   - 创建版块
   - 创建标签
   - 创建帖子
@@ -25,7 +26,11 @@ features:
 
 ## 更多功能
 
-……
+- 后台
+- 回复
+- 评论
+- 通知
+- ......
 
 ## 主要技术
 
@@ -33,9 +38,8 @@ features:
 
 - HTML、CSS、JavaScript
 - Vue
-- vuex
 - NuxtJs
-- Buefy
+- Buefy UI
 
 <strong>后端</strong>
 
@@ -56,7 +60,7 @@ features:
 
 - 该文档属于初步建成状态，有空余后面会完善相关内容
 - 项目部分布局参考了 [天使动漫论坛](https://www.tsdm39.net/forum.php)，例如论坛首页、版块、帖子页面等
-- 目前实现了基本功能，如帖子创建，评论回复等，关于后续可参考 开发计划 中所述
+- 关于后续开发进度可参考 开发计划 中所述
 - 如果你有什么建议或帮助，可以通过帖子来回复我，非常感谢
 
 ## 关于我
